@@ -2,7 +2,7 @@
 
 Dashboard em Power BI que analisa as vendas de uma varejista fictícia (dataset *Sample Superstore*) para responder uma pergunta central: **onde a empresa ganha e onde perde dinheiro, e por quê?**
 
-> **Autor:** _[seu nome]_ · **Contato:** _[LinkedIn ou e-mail]_
+> **Autor:** _[Franciele Cristina da Silva Santos]_ · **Contato:** _[francielecristinad83@gmail.com]_
 
 ---
 
@@ -136,7 +136,7 @@ Também foram criadas medidas para Faturamento Total, Lucro Total, Total de Pedi
 ├── README.md
 ├── projeto_analise_de_dados_PI.pbix
 ├── dados/
-│   └── sample_superstore.xls
+│   └── sample_-_superstoe.xls
 └── imagens/
     ├── pagina1.png
     └── pagina2.png
